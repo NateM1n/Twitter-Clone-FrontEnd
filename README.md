@@ -1,1 +1,1 @@
-# Twitter-Clone-FrontEnd
+For this project, I have created multiple pages of a Twitter copy cat-like application. This is a front-end project. There is a login, tweet page, and profile page that is accessible, in dark mode, with error messages if passwords are inserted with acceptable characters.
